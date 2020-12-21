@@ -5,4 +5,5 @@ here: https://livebook.manning.com/book/deep-reinforcement-learning-in-action/
 
 As a DRL lover and reasercher, I decide to translate this book into Chinese. Due to many reasons, there 
 maybe some problem or question when you read this project, please post issues let me know, this project need 
-you guys effort to comlplete. Thank you all! 
+you guys effort to complete. Thank you all! 
+
