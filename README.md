@@ -2,7 +2,7 @@
 description: Deep Reinforcement Learning in Action 深度强化实践（中文版）
 ---
 
-# README
+# START
 
 ![](.gitbook/assets/image%20%281%29.png)
 
