@@ -1,5 +1,5 @@
 ---
-description: Deep Reinforcement Learning in Action 深度强化实践（中文版）
+description: Deep Reinforcement Learning in Action 深度强化学习实践（中文版）
 ---
 
 # START
