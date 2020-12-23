@@ -14,7 +14,7 @@ description: 深度学习基础知识
 
 接下来我们研究下L函数具体做了哪些工作.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 神经网络层一般由两部分组成:矩阵乘法\(matrix multiplication\)和激活函数\(activation function\)。一个长度为n的向量从左边进来，并与一个矩阵\(通常称为参数或权值矩阵\)相乘，这可能改变结果向量的维数。输出的向量维数为 m ，经过非线性激活函数，不会改变向量的维数。
 
