@@ -2,7 +2,7 @@
 description: DRLA 这本书中需要的预备知识
 ---
 
-# 预备知识
+# 预备知识（ a crash course in deep learning）
 
 ## CONTENT
 
