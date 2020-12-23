@@ -56,7 +56,7 @@ description: 微积分基础知识
 
 也就是说，我们想要的导数，df/dx，是由外部函数对输入的导数乘以内部函数\(多项式\)对x的导数得到的。
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 ### 梯度下降
 
