@@ -17,4 +17,5 @@
   * [1.1—深度强化学习的“深度”如何理解](foundations/shen-me-shi-qiang-hua-xue-xi/1.1-shen-du-qiang-hua-xue-xi-de-shen-du-ru-he-li-jie.md)
   * [1.2-强化学习](foundations/shen-me-shi-qiang-hua-xue-xi/1.2-qiang-hua-xue-xi.md)
   * [1.3-动态规划 VS 蒙特卡洛](foundations/shen-me-shi-qiang-hua-xue-xi/1.3-dong-tai-gui-hua-vs-meng-te-ka-luo.md)
+  * [1.4-强化学习框架](foundations/shen-me-shi-qiang-hua-xue-xi/1.4-qiang-hua-xue-xi-kuang-jia.md)
 
