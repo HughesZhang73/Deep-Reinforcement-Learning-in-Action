@@ -18,4 +18,7 @@
   * [1.2-强化学习](foundations/shen-me-shi-qiang-hua-xue-xi/1.2-qiang-hua-xue-xi.md)
   * [1.3-动态规划 VS 蒙特卡洛](foundations/shen-me-shi-qiang-hua-xue-xi/1.3-dong-tai-gui-hua-vs-meng-te-ka-luo.md)
   * [1.4-强化学习框架](foundations/shen-me-shi-qiang-hua-xue-xi/1.4-qiang-hua-xue-xi-kuang-jia.md)
+  * [1.5-强化学习可以用途？](foundations/shen-me-shi-qiang-hua-xue-xi/1.5-qiang-hua-xue-xi-ke-yi-yong-tu.md)
+  * [1.6-如何理解深度强化学习](foundations/shen-me-shi-qiang-hua-xue-xi/1.6-ru-he-li-jie-shen-du-qiang-hua-xue-xi.md)
+  * [1.7-我们的教学工具:弦图（String diagrams）](foundations/shen-me-shi-qiang-hua-xue-xi/1.7-wo-men-de-jiao-xue-gong-ju-xian-tu-string-diagrams.md)
 
