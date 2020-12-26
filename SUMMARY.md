@@ -24,3 +24,9 @@
   * [1.8 接下来...](foundations/shen-me-shi-qiang-hua-xue-xi/1.8-jie-xia-lai-....md)
   * [章节总结](foundations/shen-me-shi-qiang-hua-xue-xi/zhang-jie-zong-jie.md)
 
+---
+
+* [建模强化学习问题:马尔可夫决策过程](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/README.md)
+  * [2.1-弦图和教学方法](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.1-xian-tu-he-jiao-xue-fang-fa.md)
+  * [2.2-解决多臂老虎机问题\(the multi-arm bandit\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit.md)
+
