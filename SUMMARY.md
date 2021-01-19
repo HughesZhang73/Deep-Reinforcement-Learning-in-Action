@@ -30,4 +30,5 @@
   * [2.1-弦图和教学方法](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.1-xian-tu-he-jiao-xue-fang-fa.md)
   * [2.2-解决多臂老虎机问题\(the multi-arm bandit\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/README.md)
     * [2.2.1-探索和利用\(Exploration and exploitation\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/2.2.1-tan-suo-he-li-yong-exploration-and-exploitation.md)
+    * [2.2.2 Epsilon-greedy 算法](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/2.2.2-epsilongreedy-suan-fa.md)
 
