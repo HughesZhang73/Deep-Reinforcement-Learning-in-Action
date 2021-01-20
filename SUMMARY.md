@@ -38,4 +38,12 @@
   * [2.4-使用Pytorch 建立神经网络](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/README.md)
     * [2.4.1-自动微分\(Automatic differentiation\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/2.4.1-zi-dong-wei-fen-automatic-differentiation.md)
     * [2.4.2-建立模型](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/2.4.2-jian-li-mo-xing.md)
+  * [2.5-解决contextual bandits](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.5-jie-jue-contextual-bandits.md)
+  * [2.6-马尔可夫性质](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.6-ma-er-ke-fu-xing-zhi.md)
+  * [2.7-预测未来的奖励:值\(Value\)和策略\(Policy\)方程](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/README.md)
+    * [2.7.1-策略方程\(Policy functions\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.1-ce-lve-fang-cheng-policy-functions.md)
+    * [2.7.2-优化策略\(optimal policy\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.2-you-hua-ce-lve-optimal-policy.md)
+    * [2.7.3-值函数\(Value function\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.3-zhi-han-shu-value-function.md)
+    * [2.8-小结](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.8-xiao-jie.md)
+  * [Untitled](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/untitled.md)
 
