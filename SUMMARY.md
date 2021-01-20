@@ -46,5 +46,4 @@
     * [2.7.2-优化策略\(optimal policy\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.2-you-hua-ce-lve-optimal-policy.md)
     * [2.7.3-值函数\(Value function\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.3-zhi-han-shu-value-function.md)
     * [2.8-小结](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.8-xiao-jie.md)
-  * [Untitled](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/untitled.md)
 
