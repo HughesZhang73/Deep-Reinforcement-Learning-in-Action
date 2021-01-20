@@ -46,4 +46,6 @@
     * [2.7.2-优化策略\(optimal policy\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.2-you-hua-ce-lve-optimal-policy.md)
     * [2.7.3-值函数\(Value function\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.7.3-zhi-han-shu-value-function.md)
     * [2.8-小结](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.7-yu-ce-wei-lai-de-jiang-li-zhi-value-he-ce-lve-policy-fang-cheng/2.8-xiao-jie.md)
+* [预测最佳的状态和动作: Deep Q-Network](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/README.md)
+  * [3.1-](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.1.md)
 
