@@ -32,5 +32,10 @@
     * [2.2.1-探索和利用\(Exploration and exploitation\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/2.2.1-tan-suo-he-li-yong-exploration-and-exploitation.md)
     * [2.2.2 Epsilon-greedy 算法](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/2.2.2-epsilongreedy-suan-fa.md)
     * [2.2.3-Softmax选择策略](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.2-jie-jue-duo-bi-lao-hu-ji-wen-ti-the-multiarm-bandit/2.2.3softmax-xuan-ze-ce-lve.md)
-  * [2.3-使用bandits优化广告投放](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.3-shi-yong-bandits-you-hua-guang-gao-tou-fang.md)
+  * [2.3-使用bandits优化广告投放](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.3-shi-yong-bandits-you-hua-guang-gao-tou-fang/README.md)
+    * [2.3.1-Contextual bandits](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.3-shi-yong-bandits-you-hua-guang-gao-tou-fang/2.3.1-contextual-bandits.md)
+    * [2.3.2-States, actions, rewards](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.3-shi-yong-bandits-you-hua-guang-gao-tou-fang/2.3.2-states-actions-rewards.md)
+  * [2.4-使用Pytorch 建立神经网络](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/README.md)
+    * [2.4.1-自动微分\(Automatic differentiation\)](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/2.4.1-zi-dong-wei-fen-automatic-differentiation.md)
+    * [2.4.2-建立模型](jian-mo-qiang-hua-xue-xi-wen-ti-ma-er-ke-fu-jue-ce-guo-cheng/2.4-shi-yong-pytorch-jian-li-shen-jing-wang-luo/2.4.2-jian-li-mo-xing.md)
 
