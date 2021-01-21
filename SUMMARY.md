@@ -50,4 +50,8 @@
   * [3.1-Q方程](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.1.md)
   * [3.2- Q-learning 导学](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/README.md)
     * [3.2.1-什么是Q-learning算法](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.1-shen-me-shi-qlearning-suan-fa.md)
+    * [3.2.2-解决Gridworld问题](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.2-jie-jue-gridworld-wen-ti.md)
+    * [3.2.3-超参数](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.3-chao-can-shu.md)
+    * [3.2.4-折扣因子](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.4-zhe-kou-yin-zi.md)
+    * [3.2.5-建立网络](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.5-jian-li-wang-luo.md)
 
