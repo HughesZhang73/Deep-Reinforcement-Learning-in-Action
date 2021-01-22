@@ -54,4 +54,6 @@
     * [3.2.3-超参数](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.3-chao-can-shu.md)
     * [3.2.4-折扣因子](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.4-zhe-kou-yin-zi.md)
     * [3.2.5-建立网络](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.5-jian-li-wang-luo.md)
+    * [3.2.6-介绍Gridworld游戏引擎](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.6-jie-shao-gridworld-you-xi-yin-qing.md)
+    * [3.2.7-使用神经网络表示Q方程](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.7-shi-yong-shen-jing-wang-luo-biao-shiqfang-cheng.md)
 
