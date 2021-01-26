@@ -56,4 +56,7 @@
     * [3.2.5-建立网络](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.5-jian-li-wang-luo.md)
     * [3.2.6-介绍Gridworld游戏引擎](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.6-jie-shao-gridworld-you-xi-yin-qing.md)
     * [3.2.7-使用神经网络表示Q方程](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.2-qlearning-dao-xue/3.2.7-shi-yong-shen-jing-wang-luo-biao-shiqfang-cheng.md)
+  * [3.3-防止灾难性遗忘：经验回放](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.3-fang-zhi-zai-nan-xing-yi-wang-jing-yan-hui-fang/README.md)
+    * [3.3.1-灾难性遗忘](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.3-fang-zhi-zai-nan-xing-yi-wang-jing-yan-hui-fang/3.3.1-zai-nan-xing-yi-wang.md)
+    * [3.3.2-经验回放](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.3-fang-zhi-zai-nan-xing-yi-wang-jing-yan-hui-fang/3.3.2-jing-yan-hui-fang.md)
 
