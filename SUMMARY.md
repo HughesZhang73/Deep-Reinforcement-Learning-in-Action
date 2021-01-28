@@ -61,4 +61,5 @@
     * [3.3.2-经验回放](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.3-fang-zhi-zai-nan-xing-yi-wang-jing-yan-hui-fang/3.3.2-jing-yan-hui-fang.md)
   * [3.4-提升目标Q网络的稳定性](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.4-ti-sheng-mu-biaoqwang-luo-de-wen-ding-xing/README.md)
     * [3.4.1-学习稳定性](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.4-ti-sheng-mu-biaoqwang-luo-de-wen-ding-xing/3.4.1-xue-xi-wen-ding-xing.md)
+  * [3.5-本章回顾](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.5-ben-zhang-hui-gu.md)
 
