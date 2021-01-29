@@ -62,4 +62,5 @@
   * [3.4-提升目标Q网络的稳定性](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.4-ti-sheng-mu-biaoqwang-luo-de-wen-ding-xing/README.md)
     * [3.4.1-学习稳定性](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.4-ti-sheng-mu-biaoqwang-luo-de-wen-ding-xing/3.4.1-xue-xi-wen-ding-xing.md)
   * [3.5-本章回顾](yu-ce-zui-jia-de-zhuang-tai-he-dong-zuo-deep-qnetwork/3.5-ben-zhang-hui-gu.md)
+* [学习选择最佳策略:策略梯度法](xue-xi-xuan-ze-zui-jia-ce-lve-ce-lve-ti-du-fa.md)
 
